@@ -1,1 +1,0 @@
-# neo4j-graph-database-queries
